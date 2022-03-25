@@ -1,2 +1,2 @@
 # AUTOCINE
-https://github.com/Kasdan2000/AUTOCINE/
+https://kasdan2000.github.io/AUTOCINE/
